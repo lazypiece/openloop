@@ -134,7 +134,7 @@ $curl = curl_init();
     echo "$Cyan";
     echo "Total balance $White: $Green" . ($json->data->totalPoint ?? "N/A") . "\n";
     echo "$r";
-    echo "____________\n\n\n";
+    echo "______________________________________________\n\n\n";
     echo "$r";
     for ($i = rand(10, 15); $i > 0; $i--) {
         echo "Silahkan tunggu . . . . . " . $i;
