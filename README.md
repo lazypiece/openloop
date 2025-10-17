@@ -1,6 +1,6 @@
 # openloop
 
-create by : Brian
+create by : lazy
 
 
 Group : https://t.me/Nightmare_money
