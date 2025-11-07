@@ -2,11 +2,6 @@
 
 create by : lazy
 
-
-Group : https://t.me/Nightmare_money
-
-
-
 command 
 
 git clone https://github.com/lazypiece/openloop
